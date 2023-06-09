@@ -1,3 +1,3 @@
 # ProjetosDelphi
 
-Repositório desenvolvido com projetos em Delphi 11.
+Repositório de projetos desenvolvidos com Delphi 11.
