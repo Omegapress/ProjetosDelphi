@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/07/08 19:40:00.000.586,=C:\Users\Taiane Abreu\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/07/08 19:42:08.000.168,C:\Users\Taiane Abreu\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\Taiane Abreu\Desktop\Delphi\Projetos\Exercicios\Exercicio 1 - Componentes Visuais\uComponentesVisuais.dfm</Transaction>
+    <Transaction>2023/07/08 19:42:08.000.168,C:\Users\Taiane Abreu\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Taiane Abreu\Desktop\Delphi\Projetos\Exercicios\Exercicio 1 - Componentes Visuais\uComponentesVisuais.pas</Transaction>
+    <Transaction>2023/07/08 19:42:19.000.447,C:\Users\Taiane Abreu\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Users\Taiane Abreu\Desktop\Delphi\Projetos\Exercicios\Exercicio 1 - Componentes Visuais\ComponentesVisuais.dproj</Transaction>
+    <Transaction>2023/07/08 21:43:47.000.978,=C:\Users\Taiane Abreu\Desktop\Delphi\Projetos\Exercicios\Exercicio 1 - Componentes Visuais\Unit1.pas</Transaction>
+    <Transaction>2023/07/08 21:44:03.000.789,C:\Users\Taiane Abreu\Desktop\Delphi\Projetos\Exercicios\Exercicio 1 - Componentes Visuais\Unit1.dfm=C:\Users\Taiane Abreu\Desktop\Delphi\Projetos\Exercicios\Exercicio 1 - Componentes Visuais\ufrmTimer.dfm</Transaction>
+    <Transaction>2023/07/08 21:44:03.000.789,C:\Users\Taiane Abreu\Desktop\Delphi\Projetos\Exercicios\Exercicio 1 - Componentes Visuais\Unit1.pas=C:\Users\Taiane Abreu\Desktop\Delphi\Projetos\Exercicios\Exercicio 1 - Componentes Visuais\ufrmTimer.pas</Transaction>
+  </Transactions>
+</BorlandProject>
